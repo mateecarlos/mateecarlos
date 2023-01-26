@@ -2,15 +2,13 @@
 
 <h3 align="center">💻A Fullstack Developer from Uruguay</h3>
 
-![]([https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif])
-
 
 - 🌱 I’m currently working on: Final project of the course
 - 📫 How to reach me: matecarlos402@gmail.com
 
-<h3 align="center">🔧Languages and Tools:</h3>
+<h3>🔧Languages and Tools:</h3>
 
-<div align="center">  
+<div>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="50px"/></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="52px"/></a>  
@@ -24,15 +22,15 @@
 <a href="https://expressjs.com/" target="_blank"><img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="Express" width="60px"/></a>
 </div>
 
-<h3 align="center"> 📫 Contact me:</h3>
-<div align="center"> 
-  <a align="center" href="https://www.linkedin.com/in/mateo-carlos-89b50021b/">
+<h3> 📫 Contact me:</h3>
+<div> 
+  <a href="https://www.linkedin.com/in/mateo-carlos-89b50021b/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a align="center" href="https://www.instagram.com/matecarloss/">
+  <a href="https://www.instagram.com/matecarloss/">
     <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
-  <a align="center" href="mailto:matecarlos402@gmail.com">
+  <a href="mailto:matecarlos402@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 <div>
