@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently working on: Final project of the course
 - 📫 How to reach me: matecarlos402@gmail.com
+- 🌱 I’m currently working on: Final project of the course
+- 📫 How to reach me: matecarlos402@gmail.com
 
 <h3>🔧Languages and Tools:</h3>
 
