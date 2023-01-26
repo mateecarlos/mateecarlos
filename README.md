@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mateo</h1>
 
-<h3 align="center">A Fullstack Developer from Uruguay</h3>
+<h3 align="center">💻A Fullstack Developer from Uruguay</h3>
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently working on: Final project of the course
 - 📫 How to reach me: matecarlos402@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<h3>Languages and Tools:</h3>
+<h3>🔧Languages and Tools:</h3>
 
 <div align="left">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
