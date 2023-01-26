@@ -5,8 +5,8 @@
 ![](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
 
 
-- 🌱 I’m currently working on: Final project of the course
-- 📫 How to reach me: matecarlos402@gmail.com
+<h5 align="center">- 🌱 I’m currently working on: Final project of the course</h5>
+<h5 align="center">- 📫 How to reach me: matecarlos402@gmail.com</h5>
 
 <h3>🔧Languages and Tools:</h3>
 
