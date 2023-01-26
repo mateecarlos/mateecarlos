@@ -26,3 +26,16 @@
 <a href="https://nodejs.org/" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" alt="NodeJs" width="60px"/></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="Express" width="60px"/></a>
 </div>
+
+<h3> 📫 Contact me:</h3>
+<div align="left"> 
+  <a href="https://www.linkedin.com/in/mateo-carlos-89b50021b/">
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/matecarloss/">
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:matecarlos402@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+<div>
