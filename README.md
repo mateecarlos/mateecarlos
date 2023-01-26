@@ -22,10 +22,6 @@
 <a href="https://expressjs.com/" target="_blank"><img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="Express" width="60px"/></a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateecarlos&theme=tokyonight)](https://github.com/mateecarlos/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateecarlos&theme=tokyonight)](https://github.com/mateecarlos/github-readme-stats)
-
-  
 <h3> 📫 Contact me:</h3>
   <a href="https://www.linkedin.com/in/mateo-carlos-89b50021b/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -36,4 +32,5 @@
   <a href="mailto:matecarlos402@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+
 
