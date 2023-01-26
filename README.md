@@ -2,7 +2,7 @@
 
 <h3 align="center">💻A Fullstack Developer from Uruguay</h3>
 
-![]([https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&psig=AOvVaw2vVCC2D-XbfEgnZlAbVc5u&ust=1674795316846000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjPtvG45PwCFQAAAAAdAAAAABAO))
+![]([https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif])
 
 
 - 🌱 I’m currently working on: Final project of the course
