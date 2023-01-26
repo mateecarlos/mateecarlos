@@ -2,7 +2,7 @@
 
 <h3 align="center">💻A Fullstack Developer from Uruguay</h3>
 
-<div align="center"> ![](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.gif) </div>
+<div align="center"> ![](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.gif)
 
 
 - 🌱 I’m currently working on: Final project of the course
