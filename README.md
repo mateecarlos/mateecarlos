@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateo Carlos</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer, specialized in frontend. From Uruguay 🇺🇾</h3>
 
 - 🔭 I’m currently working on **eCommerce Sport Shop and my Portfolio**
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **One job**
 
-- 👨‍💻 All of my projects are available at [In Progess...](In Progess...)
+- 👨‍💻 All of my projects are available at (In Progess...)
 
 - 💬 Ask me about **Front-end and back-end**
 
